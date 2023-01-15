@@ -8,7 +8,10 @@
 
 - 👯 **I’m looking to collaborate with other content creators**
 - 🥅 **2023 Goals: Contribute more to Open Source projects**
+- 📰 **Check out my articles [here](https://medium.com/@akhilaand)**
 - ⚡ **Fun fact: A fitness freak**
+
+
 
 
 <h3 align="left">Connect with me:</h3>
